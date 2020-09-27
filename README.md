@@ -12,3 +12,6 @@
 4) The special peak is the valid peak with the smallest amplitude.
 
 **Output**: A single value containing the 1-based sample index at which the special peak occurs. If more than one peak meets the special peak criteria, return the one which is closest to the beginning of the signal.
+
+![AllPeaks](https://user-images.githubusercontent.com/63022731/94362722-33c8c700-0072-11eb-929b-0834425da082.jpg)
+![ValidSpecialPeaks](https://user-images.githubusercontent.com/63022731/94362720-33303080-0072-11eb-9e1b-1a4a9d47f705.jpg)
